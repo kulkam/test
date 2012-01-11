@@ -1,4 +1,5 @@
-To jest jakiœ tekst
+To jest jakiï¿½ tekst
 
 Small_change
 hotfix
+test
